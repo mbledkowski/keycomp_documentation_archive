@@ -1,0 +1,5 @@
+Extracted with: pdfimages -all ./EN_CHERRY_MX_RED.pdf ./EN_CHERRY_MX_RED/
+About tool: pdfimages -v
+pdfimages version 0.86.1
+Copyright 2005-2020 The Poppler Developers - http://poppler.freedesktop.org
+Copyright 1996-2011 Glyph & Cog, LLC
